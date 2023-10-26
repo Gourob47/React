@@ -1,5 +1,5 @@
 import React from 'react'
-
+import '../assets/css/style.css';
 const About = () => {
 
     let city=['Dhaka','Sylhet','Khulna','Rajshahi', 'Rangpur'];

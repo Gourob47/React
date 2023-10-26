@@ -1,5 +1,5 @@
 import React from "react";
-
+import '../assets/css/style.css';
 const Service = () => {
   let status = true;
   return (

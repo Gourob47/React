@@ -1,5 +1,5 @@
 import React from 'react'
-
+import '../assets/css/style.css';
 const Hero = () => {
     let marks=50;
   return (
