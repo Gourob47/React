@@ -1,0 +1,54 @@
+/* App.css (or your preferred CSS file) */
+
+/* Style for the Introduction Component */
+.Introduction {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the Team Members Component */
+  .TeamMembers ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .TeamMembers li {
+    width: 48%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .TeamMembers img {
+    max-width: 100%;
+    border-radius: 50%;
+  }
+  
+  /* Style for the Company History Component */
+  .CompanyHistory {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .CompanyHistory p {
+    margin-bottom: 10px;
+  }
+  
+  /* Style for the Contact Information Component */
+  .ContactInformation {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .ContactInformation p {
+    margin: 10px 0;
+  }
+  
